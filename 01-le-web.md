@@ -6,19 +6,9 @@ Voici l'inventeur du Web, Tim Berners-Lee. Et là, Tim Berners-Lee lit.
 
 Il est né le 8 juin 1955 à Londres. Ses parents, Mary-Lee et Conway Berners-Lee, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (Le Conseil Européen pour la Recherche Nucléaire). D'abord en tant qu'externe pour 6 mois, il reviendra au CERN quatre ans plus tard, en 1984, cette fois-ci en tant qu'interne.
 
-1. https://duckduckgo.com/?q=tim+berners-lee&t=h_&iax=images&ia=images
-2. http://maps.stamen.com/toner/#8/51.473/0.621
-3. Photos de Mary-Lee et Conway (ForEveryone.net)
-4. Photos de Tim jeune.
-5. https://home.cern/
-
 Et c'est alors en 1989 qu'il propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
 
-1. http://cds.cern.ch/record/369245/files/dd-89-001.pdf
-2. http://info.cern.ch/Proposal.html
-3. https://letorey.co.uk/blog/vague-but-exciting
-
-Ce n'est qu'un an après que Tim Berners-Lee se verra accorder les moyens de mener à bien son projet, accompagné du chercheur belge Robert Cailliau, qui apportera un énorme soutien logistique à son projet au sein du CERN. Et qui s'appelera… Le World Wide Web.
+Ce n'est qu'un an après, en 1990, que Tim Berners-Lee se verra accorder les moyens de mener à bien son projet, accompagné du chercheur belge Robert Cailliau, qui apportera un énorme soutien logistique à son projet au sein du CERN. Et après avoir hésité à appeler ça TIM (pour The Information Mine) ou MOI (pour Mine Of Information), le projet sera finalement nommé… Le World Wide Web.
 
 Et même si techniquement les locaux du CERN se trouvent en Suisse, le bureau de Tim Berners Lee était situé dans le bâtiment 31, en France. Eh donc, oui, techniquement, le Web a été inventé en France [cocorico].
 
@@ -54,11 +44,17 @@ Merci de votre écoute et bienvenue dans trois double v.
 
 ---
 
+## Notes
+
+[1] "they actually met while working on the Ferranti Mark I" https://www.w3.org/People/Berners-Lee/FAQ.html
+
 ## Liens
 
 * https://www.bl.uk/voices-of-science/interviewees/mary-lee-berners-lee
 * https://www.theguardian.com/technology/2018/jan/23/mary-lee-berners-lee-obituary
-
-## Notes
-
-[1] "they actually met while working on the Ferranti Mark I" https://www.w3.org/People/Berners-Lee/FAQ.html
+* https://duckduckgo.com/?q=tim+berners-lee&t=h_&iax=images&ia=images
+* http://maps.stamen.com/toner/#8/51.473/0.621
+* https://home.cern/
+* http://cds.cern.ch/record/369245/files/dd-89-001.pdf
+* http://info.cern.ch/Proposal.html
+* https://letorey.co.uk/blog/vague-but-exciting
