@@ -4,7 +4,7 @@
 
 Voici l'inventeur du Web, Tim Berners-Lee.
 
-Il est né le 8 juin 1955 à Londres. Ses parents, Mary-Lee et Conway Berners-Lee, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (Le Conseil Européen pour la Recherche Nucléaire). D'abord en tant qu'externe pour 6 mois, il reviendra au CERN quatre ans plus tard, en 1984, cette fois-ci en tant qu'interne.
+Il est né le 8 juin 1955 à Londres. Ses parents, Mary-Lee et Conway Berners-Lee, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Ferranti Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (Le Conseil Européen pour la Recherche Nucléaire). D'abord en tant qu'externe pour 6 mois, il reviendra au CERN quatre ans plus tard, en 1984, cette fois-ci en tant qu'interne.
 
 Et c'est alors en 1989 qu'il propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
 
