@@ -24,7 +24,7 @@ Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet
 
 ## HTTP et HTML
 
-D'un point de vue technique, je pense que le résumé le plus concis que j'ai vu est celui donné par John Gruber lors d'une conférence en 2010. Il appelle ça « les HTs: HTTP et HTML ». HTTP et HTML. Les deux technologies fondamentales à la base du Web. HTTP est un protocole qui permet de communiquer avec un serveur pour échanger des informations. Tandis que HTML est un langage de balisage qui permet de structurer ces informations.
+D'un point de vue technique, je pense que la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010. Il appelle ça « les HTs: HTTP et HTML ». HTTP et HTML. Les deux technologies fondamentales à la base du Web. HTTP est un protocole qui permet de communiquer avec un serveur pour échanger des informations. Tandis que HTML est un langage de balisage qui permet de structurer ces informations.
 
 ## Plateforme / Continuum
 
