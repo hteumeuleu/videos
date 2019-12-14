@@ -21,3 +21,4 @@ J'ai besoin d'une relecture et d'une validation de mes paires. Je vous invite do
 
 * Je ne montrerais pas ma tronche. On voit déjà bien assez d'hommes blancs parler devant leur caméra sur Youtube.
 * Il y aura du banjo. Le monde a besoin de plus de banjo.
+* Je n'utiliserais pas de son de modem 56 K. Par pitié, non.
