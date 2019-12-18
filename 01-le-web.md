@@ -36,7 +36,7 @@ Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet
 
 ## HTTP et HTML
 
-D'un point de vue technique, je pense que la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010. Il appelle ça :
+D'un point de vue technique, je pense que la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010 [4]. Il appelle ça :
 
 > « les HTs: HTTP et HTML ».
 
@@ -66,8 +66,8 @@ Merci de votre écoute et bienvenue dans trois double v.
 
 ## Notes
 
-[1] "they actually met while working on the Ferranti Mark I" https://www.w3.org/People/Berners-Lee/FAQ.html
-[2] À partir de 27 min https://vimeo.com/137117401
+* [1] "they actually met while working on the Ferranti Mark I" https://www.w3.org/People/Berners-Lee/FAQ.html
+* [2] À partir de 27 min https://vimeo.com/137117401
 
 > If you're about to have a debate on tax relief, before the debate has even begun, you framed tax as something you need relief from.
 > It's the same when talking about the Web Platform. (And don't get me wrong. There's great people using this phrase. WebPlatform.org. WebplatformDaily. Wonderful resources.) But the web isn't a platform.
@@ -77,7 +77,10 @@ Merci de votre écoute et bienvenue dans trois double v.
 > If I build something on the Web, maybe you get 100% percent. Maybe close to it, 90%, 80%. But the important thing is you don't necessarly get zero. You get something. If I'm building it the right way, using progressive enhancement, you're at least going to get the content. At least going to get the HTML. Maybe you'll get the CSS. Maybe not all the CSS. Some of the JavaScript. Maybe not all of the JavaScript.
 > The Web is not a platform. The Web is a continuum. To treat the web as a platform is a category error. And just as we made the mistake as we tried to get our heads around the Web and thought of it as print design, now we're making the same mistake as thinking the Web is software just like any software. So we can treat building for the Web the way we treat building for any other platform. The Web is fundamentally different.
 > 
-[3] https://twitter.com/HTeuMeuLeu/status/1105577568277794824
+* [3] https://twitter.com/HTeuMeuLeu/status/1105577568277794824
+* [4] https://www.youtube.com/watch?v=Qss5RnD7wK8
+
+> So go back to Web 1.0. Go back to the original Web. And there's two technologies at the beginning and all the way to today are the fundamental technologies behind the Web. I call them the HTs. HTML. HTTP.
 
 ## Liens
 
@@ -89,3 +92,8 @@ Merci de votre écoute et bienvenue dans trois double v.
 * http://cds.cern.ch/record/369245/files/dd-89-001.pdf
 * http://info.cern.ch/Proposal.html
 * https://letorey.co.uk/blog/vague-but-exciting
+
+# Todo
+
+* Ajouter un écran de présentation des speakers (Gruber, Keith)
+* Ajouter une vidéo de TBL qui parle à la toute fin
