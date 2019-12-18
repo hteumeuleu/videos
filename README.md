@@ -11,7 +11,7 @@ J'ai besoin d'une relecture et d'une validation de mes paires. Je vous invite do
 ## Épisodes
 
 1. [Le Web](01-le-web.md).
-2. HTTP.
+2. [HTTP](02-HTTP.md).
 3. HTML.
 4. CSS.
 5. Le W3C.
