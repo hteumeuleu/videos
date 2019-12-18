@@ -24,15 +24,15 @@ Une erreur courante est de confondre le Web et Internet. Par exemple dans ce jou
 
 > « Tim Berners-Lee, un des pères fondateurs d'Internet »
 
-[WILHEM SCREAM] il veut bien entendu parler du Web. Et quand dans la version française de l'épisode 6 de la saison 3 de The X-Files, Scully dit…
+[WILHEM SCREAM] il veut lui aussi parler du Web. Et quand dans la version française de l'épisode six de la saison trois de The X-Files, Scully dit…
 
 > « Je vais appeler Internet… »
 
-Elle veut bien entendu parler de… Euh… Bah non, là ça veut rien dire.
+Elle veut elle aussi parler de… Euh… Non. Ça veut rien dire, là.
 
-En fait, en 2009, Tim Berners-Lee lui même s'est moqué de cette confusion générale. Il s'est présenté à la cérémonie des 20 ans du Web avec son confrère Vint Cerf, co-inventeur des protocoles TCP/IP, en portant chacun respectivement un T-shirt « je n'ai pas inventé Internet » et « je n'ai pas inventé le Web ».
+En fait, en 2009, Tim Berners-Lee lui même s'est moqué de cette confusion générale. Il s'est présenté à la cérémonie des 20 ans du Web avec son confrère Vinton Cerf, co-inventeur des protocoles TCP/IP, en portant chacun respectivement un T-shirt « je n'ai pas inventé Internet » et « je n'ai pas inventé le Web ».
 
-Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet, c'est le réseau qui relie des ordinateurs à travers le monde entier. Et le Web, c'est une application de ce réseau, au même titre que le courrier électronique ou le jeu en ligne.
+Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet, c'est le réseau qui relie des ordinateurs à travers le monde entier. Et le Web, c'est une application, une utilisation de ce réseau, au même titre que le courrier électronique ou le jeu en ligne.
 
 ## HTTP et HTML
 
@@ -44,13 +44,15 @@ HTTP et HTML. Les deux technologies fondamentales à la base du Web. HTTP est un
 
 ## Plateforme / Continuum
 
-Une autre définition courante du Web, c'est d'en parler comme une plate-forme. Ça a été notamment largement popularisé dans les années 2010 par le site WebPlatform.org ; mais aussi par Mozilla et son slogan pour Firefox OS « Le Web est la plate-forme ». Et le meilleur argument que j'ai entendu contre ça est donné par Jeremy Keith[2]. « Le Web est un continuum. »
+Une autre définition courante du Web, c'est d'en parler comme une plate-forme. Ça a été notamment largement popularisé dans les années 2010 par le site WebPlatform.org ; mais aussi par Mozilla et son slogan pour Firefox OS « Le Web est la plate-forme ». Et le meilleur argument que j'ai entendu contre ça est donné par Jeremy Keith[2].
 
 > But the web isn't a platform.
 > What a platform is… It's an all or nothing system.
 > If I build an iOS app and you have an iOS device, you get what I built. 100% of what I've built. But if I build an iOS app and you get an Android device, you get zero of what I built.
 > If I build something on the Web, maybe you get 100% percent. Maybe close to it, 90%, 80%. But the important thing is you don't necessarly get zero. You get something. If I'm building it the right way, using progressive enhancement, you're at least going to get the content. At least going to get the HTML. Maybe you'll get the CSS. Maybe not all the CSS. Some of the JavaScript. Maybe not all of the JavaScript.
 > The Web is not a platform. The Web is a continuum.
+
+ « Le Web est un continuum. »
 
 ## This is for everyone
 
