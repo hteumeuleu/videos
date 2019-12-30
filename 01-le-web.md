@@ -70,6 +70,9 @@ Ah voilà, c'est ça. C'est pour tout le monde. Le Web, c'est pour tout le monde
 
 Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
 
+> What's the Web ? It used to be difficult to explain what the web would be like. Now it is difficult to explain why it was difficult.
+> — Tim Berners-Lee
+
 Merci de votre écoute et bienvenue dans trois double v.
 
 ---
