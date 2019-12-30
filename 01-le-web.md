@@ -6,15 +6,15 @@
 
 Voici l'inventeur du Web, Tim Berners-Lee.
 
-Il est né le 8 juin 1955 à Londres. Ses parents, Mary-Lee et Conway Berners-Lee, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Ferranti Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (Le Conseil Européen pour la Recherche Nucléaire). D'abord en tant qu'externe pour 6 mois, il reviendra au CERN quatre ans plus tard, en 1984, cette fois-ci en tant qu'interne.
+Il est né le 8 juin 1955 à Londres. Ses parents, Conway Berners-Lee et Mary-Lee Woods, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Ferranti Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (Le Conseil Européen pour la Recherche Nucléaire).
 
-Et c'est alors en 1989 qu'il propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
+En 1989, il propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
 
 Ce n'est qu'un an après, en 1990, que Tim Berners-Lee se verra accorder les moyens de mener à bien son projet, accompagné du chercheur belge Robert Cailliau, qui apportera un énorme soutien logistique à son projet au sein du CERN. Et après avoir hésité à appeler ça TIM (pour The Information Mine) ou MOI (pour Mine Of Information), le projet sera finalement nommé… Le World Wide Web.
 
 Et même si techniquement les locaux du CERN se trouvent en Suisse, le bureau de Tim Berners Lee était situé dans le bâtiment 31, en France. Eh donc, oui, techniquement, le Web a été inventé en France [cocorico].
 
-Mais alors, en fait, c'est quoi exactement Le Web ?
+Je suis intégrateur Web, et je me suis toujours demandé comment on pourrait définir le Web.
 
 ## Le Web et Internet
 
@@ -30,7 +30,7 @@ Une erreur courante est de confondre le Web et Internet. Par exemple dans ce jou
 
 > « Je vais appeler Internet… »
 
-Elle veut elle aussi parler de… Euh… Non. Ça veut rien dire, là.
+Elle veut elle aussi parler de… Euh… Quoi ?!
 
 En fait, en 2009, Tim Berners-Lee lui même s'est moqué de cette confusion générale. Il s'est présenté à la cérémonie des 20 ans du Web avec son confrère Vinton Cerf, co-inventeur des protocoles TCP/IP, en portant chacun respectivement un T-shirt « je n'ai pas inventé Internet » et « je n'ai pas inventé le Web ».
 
@@ -38,7 +38,7 @@ Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet
 
 ## HTTP et HTML
 
-D'un point de vue technique, je pense que la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010 [4]. Il appelle ça :
+D'un point de vue technique, la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010 [4]. Il appelle ça :
 
 > « les HTs: HTTP et HTML ».
 
@@ -58,11 +58,17 @@ Une autre définition courante du Web, c'est d'en parler comme une plate-forme. 
 
 ## This is for everyone
 
-En fait, la meilleure explication que j'ai vu du Web a été donnée lors de la cérémonie d'ouverture des Jeux Olympiques de Londres en 2012.
+En fait, la meilleure illustration de ce qu'est le Web que j'ai vu a été donnée lors de la cérémonie d'ouverture des Jeux Olympiques de Londres en 2012.
 
 > « Sir Tim Berners Lee, qui est inconnu bien qu'il mérite le prix Nobel. L'inventeur du premier site Internet. [WILHEM SCREAM] Le premier homme à s'être dit qu'un site commençant par  w w w  pouvait rassembler les hommes d'un point à l'autre du monde.
 
-Euh… quoi ? Non, mais attendez c'est pas de ça dont je parlais. On revient en arrière. « This is for everyone » C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde devrait avoir le même droit d'accéder au Web. Et aussi de contribuer au Web en postant ces propres contenus. Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer. C'est pour ça que c'est difficile de donner une seule définition du Web. Chaque utilisateur et utilisatrice du Web en aura sa propre définition.
+Euh… quoi ? Non, mais attendez c'est pas de ça dont je parlais. On revient en arrière.
+
+> « This is for everyone »
+
+Ah voilà, c'est ça. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder au Web et d'y contribuer en postant ces propres contenus.
+
+Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
 
 Merci de votre écoute et bienvenue dans trois double v.
 
