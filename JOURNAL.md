@@ -3,6 +3,10 @@
 Sur [l'exemple d'oncletom](https://github.com/oncletom/nodebook/blob/v1/docs/JOURNAL.md), ce journal détaille mes efforts pour avancer sur ce projet.
 
 ---
+## Lundi 30 décembre 2019
+
+* Après avoir regardé [Don't f\*\*k with cats](https://www.youtube.com/watch?v=x41SMm-9-i4), je suis convaincu qu'un style de vidéo montrant des captures d'écran en gros plan est bien plus approprié pour mes vidéos qu'un style à la Vox. J'avais déjà eu cette envie après avoir vu [Missing](https://www.youtube.com/watch?v=3Ro9ebQxEOY) plus tôt cette année. J'ai pu bien avancé en repartant sur cette idée aujourd'hui. J'avance à un rythme d'une heure pour dix secondes de vidéo. À ce rythme, il me faut encore au moins quatre jours de boulot.
+---
 
 ## Jeudi 19 décembre 2019
 
