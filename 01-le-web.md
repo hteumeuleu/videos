@@ -105,8 +105,3 @@ Merci de votre écoute et bienvenue dans trois double v.
 * http://cds.cern.ch/record/369245/files/dd-89-001.pdf
 * http://info.cern.ch/Proposal.html
 * https://letorey.co.uk/blog/vague-but-exciting
-
-# Todo
-
-* Ajouter un écran de présentation des speakers (Gruber, Keith)
-* Ajouter une vidéo de TBL qui parle à la toute fin
