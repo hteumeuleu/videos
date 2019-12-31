@@ -66,7 +66,7 @@ Euh… quoi ? Non, mais attendez c'est pas de ça dont je parlais. On revient en
 
 > « This is for everyone »
 
-Ah voilà, c'est ça. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder au Web et d'y contribuer en postant ces propres contenus.
+Ah voilà, c'est ça. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder et de contribuer au Web.
 
 Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
 
