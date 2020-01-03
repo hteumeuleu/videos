@@ -2,6 +2,15 @@
 
 * [Premier test de montage](https://drive.google.com/file/d/1QOXRxZhquoXgxe0L32XafAdz4FcDVOAW/view?usp=sharing). C'est tout pourri, il manque 3/4 des illustrations, le rythme est nul, le son saute. Mais ça prend forme.
 
+## Reste à faire
+
+[ ] Réenregister l'audio
+[ ] Réenregister l'image sur la fin de la partie « Le Web et Internet » (applications)
+[ ] Image sur la partie « HTML et HTTP » (12 s)
+[ ] Image sur le début de la partie « Plateforme » (7 s)
+[ ] Image sur la fin (30 s)
+[ ] Générique de fin
+
 ## Tim
 
 Voici l'inventeur du Web, Tim Berners-Lee.
