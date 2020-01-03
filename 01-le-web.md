@@ -4,12 +4,12 @@
 
 ## Reste à faire
 
-[ ] Réenregister l'audio
-[ ] Réenregister l'image sur la fin de la partie « Le Web et Internet » (applications)
-[ ] Image sur la partie « HTML et HTTP » (12 s)
-[ ] Image sur le début de la partie « Plateforme » (7 s)
-[ ] Image sur la fin (30 s)
-[ ] Générique de fin
+- [ ] Réenregister l'audio
+- [ ] Réenregister l'image sur la fin de la partie « Le Web et Internet » (applications)
+- [ ] Image sur la partie « HTML et HTTP » (12 s)
+- [ ] Image sur le début de la partie « Plateforme » (7 s)
+- [ ] Image sur la fin (30 s)
+- [ ] Générique de fin
 
 ## Tim
 
