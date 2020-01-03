@@ -50,7 +50,7 @@ HTTP et HTML. Les deux technologies fondamentales à la base du Web. HTTP est un
 
 ## Plateforme / Continuum
 
-Une autre définition courante du Web, c'est d'en parler comme une plate-forme. Ça a été notamment largement popularisé dans les années 2010 par le site WebPlatform.org ; mais aussi par Mozilla et son slogan pour Firefox OS « Le Web est la plate-forme ». Et le meilleur argument que j'ai entendu contre ça est donné par Jeremy Keith[2].
+Une autre définition courante du Web, c'est d'en parler comme une plate-forme. Ça a été notamment largement popularisé dans les années 2010 par le site WebPlatform.org ; mais aussi par Mozilla et son slogan pour Firefox OS « Le Web est la plate-forme ». Et le meilleur argument que j'ai entendu contre ça est donné par Jeremy Keith[2]. Pour lui, « le Web est un continuum. »
 
 > But the web isn't a platform.
 > What a platform is… It's an all or nothing system.
@@ -58,7 +58,6 @@ Une autre définition courante du Web, c'est d'en parler comme une plate-forme. 
 > If I build something on the Web, maybe you get 100% percent. Maybe close to it, 90%, 80%. But the important thing is you don't necessarly get zero. You get something. If I'm building it the right way, using progressive enhancement, you're at least going to get the content. At least going to get the HTML. Maybe you'll get the CSS. Maybe not all the CSS. Some of the JavaScript. Maybe not all of the JavaScript.
 > The Web is not a platform. The Web is a continuum.
 
- « Le Web est un continuum. »
 
 ## This is for everyone
 
@@ -70,7 +69,7 @@ Euh… quoi ? Non, mais attendez c'est pas de ça dont je parlais. On revient en
 
 > « This is for everyone »
 
-Ah voilà, c'est ça. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder et de contribuer au Web.
+Ah voilà, c'est là. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder et de contribuer au Web.
 
 Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
 
