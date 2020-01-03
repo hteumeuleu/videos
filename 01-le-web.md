@@ -8,7 +8,11 @@ Voici l'inventeur du Web, Tim Berners-Lee.
 
 Il est né le 8 juin 1955 à Londres. Ses parents, Conway Berners-Lee et Mary-Lee Woods, baignent déjà dans l'informatique puisqu'ils se sont rencontrés[1] en travaillant sur le Ferranti Mark 1, l'un des tous premiers ordinateurs commercialisés au monde. À la fin des années 70, Tim Berners-Lee obtient un diplôme en Sciences Physiques. Et c'est en 1980 qu'il décroche un premier poste au CERN (L'Organisation européenne pour la recherche nucléaire).
 
-En 1989, il propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
+> (Explosion nucléaire)
+
+Oui, alors non. Nucléaire plutôt du genre accélération de particules en fait. Et ça fait justement du Web un projet vraiment annexe, presque accidentel, par rapport à la mission du CERN.
+
+En 1989, Tim Berners-Lee propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
 
 Ce n'est qu'un an après, en 1990, que Tim Berners-Lee se verra accorder les moyens de mener à bien son projet, accompagné du chercheur belge Robert Cailliau, qui apportera un énorme soutien logistique à son projet au sein du CERN. Et après avoir hésité à appeler ça TIM (pour The Information Mine) ou MOI (pour Mine Of Information), le projet sera finalement nommé… Le World Wide Web.
 
