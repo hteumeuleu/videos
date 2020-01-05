@@ -22,7 +22,7 @@ Il est né le 8 juin 1955 à Londres. Ses parents, Conway Berners-Lee et Mary-Le
 
 Oui, alors non. Nucléaire plutôt du genre accélération de particules en fait. Et ça fait justement du Web un projet vraiment annexe, presque accidentel, par rapport à la mission du CERN.
 
-En 1989, Tim Berners-Lee propose un projet pour gérer l'information au CERN, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
+C'est en 1989 que Tim Berners-Lee y propose un projet pour gérer l'information, dans un rapport intitulé "Information Management : A proposal". Il cherche avant tout à résoudre des problèmes propres au CERN, où tout le monde utilise des ordinateurs et systèmes différents et range ses petits fichiers dans son coin. Son idée consiste alors à utiliser des hyperliens pour lier tous les documents les uns aux autres. Son projet recevra plutôt un bon accueil et sera annoté par son supérieur, Mike Sendall, d'un célèbre « Vague, mais intéressant ».
 
 Ce n'est qu'un an après, en 1990, que Tim Berners-Lee se verra accorder les moyens de mener à bien son projet, accompagné du chercheur belge Robert Cailliau, qui apportera un énorme soutien logistique à son projet au sein du CERN. Et après avoir hésité à appeler ça TIM (pour The Information Mine) ou MOI (pour Mine Of Information), le projet sera finalement nommé… Le World Wide Web.
 
@@ -68,6 +68,7 @@ Une autre définition courante du Web, c'est d'en parler comme une plate-forme. 
 > If I build something on the Web, maybe you get 100% percent. Maybe close to it, 90%, 80%. But the important thing is you don't necessarly get zero. You get something. If I'm building it the right way, using progressive enhancement, you're at least going to get the content. At least going to get the HTML. Maybe you'll get the CSS. Maybe not all the CSS. Some of the JavaScript. Maybe not all of the JavaScript.
 > The Web is not a platform. The Web is a continuum.
 
+Alors ok, ce terme de continuum n'est pas le plus explicite. Mais j'aime vraiment souligner ce côté progressif du Web.
 
 ## This is for everyone
 
@@ -82,6 +83,10 @@ Euh… quoi ? Non, mais attendez c'est pas de ça dont je parlais. On revient en
 Ah voilà, c'est là. C'est pour tout le monde. Le Web, c'est pour tout le monde. Ça signifie que non seulement tout le monde doit avoir le même droit d'accéder et de contribuer au Web.
 
 Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
+
+Et c'est peut-être aussi pour ça que c'est difficile de définir précisément ce qu'est le Web. Parce que le Web c'est pour tout le monde, tout le monde en aura sa propre définition. 
+
+Terminons sur des paroles de Tim Berners-Lee…
 
 > What's the Web ? It used to be difficult to explain what the web would be like. Now it is difficult to explain why it was difficult.
 > — Tim Berners-Lee
