@@ -2,6 +2,7 @@
 
 * [Premier test de montage](https://drive.google.com/file/d/1QOXRxZhquoXgxe0L32XafAdz4FcDVOAW/view?usp=sharing). (19/12/2019) C'est tout pourri, il manque 3/4 des illustrations, le rythme est nul, le son saute. Mais ça prend forme.
 * [Deuxième test de montage](https://drive.google.com/file/d/1K9c-zpdhZcivsZ5SXD-QPzKAtoKdFEXE/view?usp=sharing). (03/01/2020) Je commence à arriver vers quelque chose qui me plaît.
+* [Troisième test de montage](https://drive.google.com/file/d/1FTa9ryNagUh3sU-C6DfmaLcU_raGC102/view?usp=sharing). (09/01/2020) Ça devient bon ! Je commence à rentrer dans le détail et du peaufinage.
 
 ## Reste à faire
 
