@@ -47,7 +47,7 @@ Une erreur courante est de confondre le Web et Internet. Par exemple dans ce jou
 
 Elle veut elle aussi parler de… Euh… Quoi ?!
 
-En fait, en 2009, Tim Berners-Lee lui même s'est moqué de cette confusion générale. Il s'est présenté à la cérémonie des 20 ans du Web avec son confrère Vinton Cerf, co-inventeur des protocoles TCP/IP, en portant chacun respectivement un T-shirt « je n'ai pas inventé Internet » et « je n'ai pas inventé le Web ».
+En fait, en 2014, Tim Berners-Lee lui même s'est moqué de cette confusion générale. Il s'est présenté à la cérémonie des 20 ans du W3C avec son confrère Vinton Cerf, co-inventeur des protocoles TCP/IP, en portant chacun respectivement un T-shirt « je n'ai pas inventé Internet » et « je n'ai pas inventé le Web ».
 
 Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet, c'est le réseau qui relie des ordinateurs à travers le monde entier. Et le Web, c'est une application, une utilisation de ce réseau, au même titre que le courrier électronique ou le jeu en ligne.
 
