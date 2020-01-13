@@ -3,15 +3,14 @@
 * [Premier test de montage](https://drive.google.com/file/d/1QOXRxZhquoXgxe0L32XafAdz4FcDVOAW/view?usp=sharing). (19/12/2019) C'est tout pourri, il manque 3/4 des illustrations, le rythme est nul, le son saute. Mais ça prend forme.
 * [Deuxième test de montage](https://drive.google.com/file/d/1K9c-zpdhZcivsZ5SXD-QPzKAtoKdFEXE/view?usp=sharing). (03/01/2020) Je commence à arriver vers quelque chose qui me plaît.
 * [Troisième test de montage](https://drive.google.com/file/d/1FTa9ryNagUh3sU-C6DfmaLcU_raGC102/view?usp=sharing). (09/01/2020) Ça devient bon ! Je commence à rentrer dans le détail et du peaufinage.
+* [Quatrième test de montage](https://drive.google.com/file/d/1FTa9ryNagUh3sU-C6DfmaLcU_raGC102/view?usp=sharing). (13/01/2020) Avec de la musique de fond. Il me reste deux trois trucs à faire. Si tout va bien, je lance la vidéo ce mercredi 15.
+
 
 ## Reste à faire
 
-- [x] Réenregister l'audio
-- [x] Réenregister l'image sur la fin de la partie « Le Web et Internet » (applications)
-- [x] Image sur la partie « HTML et HTTP » (12 s)
-- [ ] Image sur le début de la partie « Plateforme » (7 s)
-- [ ] Image sur la fin (30 s)
 - [ ] Générique de fin
+- [ ] Refaire les animations des sous-titres
+- [ ] Sous-titrer la vidéo
 
 ## Tim
 
