@@ -1,18 +1,8 @@
 # Le Web
 
-* [Premier test de montage](https://drive.google.com/file/d/1QOXRxZhquoXgxe0L32XafAdz4FcDVOAW/view?usp=sharing). (19/12/2019) C'est tout pourri, il manque 3/4 des illustrations, le rythme est nul, le son saute. Mais ça prend forme.
-* [Deuxième test de montage](https://drive.google.com/file/d/1K9c-zpdhZcivsZ5SXD-QPzKAtoKdFEXE/view?usp=sharing). (03/01/2020) Je commence à arriver vers quelque chose qui me plaît.
-* [Troisième test de montage](https://drive.google.com/file/d/1FTa9ryNagUh3sU-C6DfmaLcU_raGC102/view?usp=sharing). (09/01/2020) Ça devient bon ! Je commence à rentrer dans le détail et du peaufinage.
-* [Quatrième test de montage](https://drive.google.com/open?id=1Zl_LcK4EVe85UBBj53g40jdZfAUcgepA). (13/01/2020) Avec de la musique de fond. Il me reste deux trois trucs à faire. Si tout va bien, je lance la vidéo ce mercredi 15.
+## Transcript
 
-
-## Reste à faire
-
-- [ ] Générique de fin
-- [ ] Refaire les animations des sous-titres
-- [ ] Sous-titrer la vidéo
-
-## Tim
+### Tim
 
 Voici l'inventeur du Web, Tim Berners-Lee.
 
@@ -30,7 +20,7 @@ Et même si techniquement les locaux du CERN se trouvent en Suisse, le bureau de
 
 Je suis intégrateur Web, et je me suis toujours demandé comment on pourrait définir le Web.
 
-## Le Web et Internet
+### Le Web et Internet
 
 Une erreur courante est de confondre le Web et Internet. Par exemple dans ce journal télévisé de 2019, quand le présentateur dit… [3]
 
@@ -50,15 +40,15 @@ En fait, en 2014, Tim Berners-Lee lui même s'est moqué de cette confusion gén
 
 Alors c'est quoi la différence ? Eh bien ce qu'on appelle communément Internet, c'est le réseau qui relie des ordinateurs à travers le monde entier. Et le Web, c'est une application, une utilisation de ce réseau, au même titre que le courrier électronique ou le jeu en ligne.
 
-## HTTP et HTML
+### HTTP et HTML
 
-D'un point de vue technique, la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010 [4]. Il appelle ça :
+D'un point de vue technique, la description la plus concise que j'ai vu est celle donnée par John Gruber lors d'une conférence en 2010 [4]. Il appelle ça « les HTs » :
 
-> « les HTs: HTTP et HTML ».
+> So go back to Web 1.0. Go back to the original Web. And there's two technologies at the beginning and all the way to today are the fundamental technologies behind the Web. I call them the HTs. HTML. HTTP.
 
-HTTP et HTML. Les deux technologies fondamentales à la base du Web. HTTP est un protocole qui permet de communiquer avec un serveur pour échanger des informations. Tandis que HTML est un langage de balisage qui permet de structurer et donner du sens à ces informations.
+HTML et HTTP. Les deux technologies fondamentales à la base du Web. HTTP est un protocole qui permet de communiquer avec un serveur pour échanger des informations. Tandis que HTML est un langage de balisage qui permet de structurer et donner du sens à ces informations.
 
-## Plateforme / Continuum
+### Plateforme / Continuum
 
 Une autre définition courante du Web, c'est d'en parler comme une plate-forme. Ça a été notamment largement popularisé dans les années 2010 par le site WebPlatform.org ; mais aussi par Mozilla et son slogan pour Firefox OS « Le Web est la plate-forme ». Et le meilleur argument que j'ai entendu contre ça est donné par Jeremy Keith[2]. Pour lui, « le Web est un continuum. »
 
@@ -70,7 +60,7 @@ Une autre définition courante du Web, c'est d'en parler comme une plate-forme. 
 
 Alors ok, ce terme de continuum n'est pas le plus explicite. Mais j'aime vraiment souligner ce côté progressif du Web.
 
-## This is for everyone
+### This is for everyone
 
 En fait, la meilleure illustration de ce qu'est le Web que j'ai vu a été donnée lors de la cérémonie d'ouverture des Jeux Olympiques de Londres en 2012.
 
@@ -84,7 +74,7 @@ Ah voilà, c'est là. C'est pour tout le monde. Le Web, c'est pour tout le monde
 
 Mais surtout, le Web est conçu pour tout le monde, où que vous soyez, quelque soit votre ordinateur ou votre téléphone, quelque soit votre système d'exploitation, votre navigateur, ou vos préférences utilisateur. C'est un principe fondamental du Web, et il ne tient qu'à nous de le perpétuer.
 
-Et c'est peut-être aussi pour ça que c'est difficile de définir précisément ce qu'est le Web. Parce que le Web c'est pour tout le monde, tout le monde en aura sa propre définition. 
+Et c'est peut-être aussi pour ça que c'est difficile de définir précisément ce qu'est le Web. Parce que le Web c'est pour tout le monde, tout le monde en aura sa propre définition.
 
 Terminons sur des paroles de Tim Berners-Lee…
 
@@ -95,7 +85,36 @@ Merci de votre écoute et bienvenue dans trois double v.
 
 ---
 
-## Notes
+## Crédits
+
+### Musiques
+
+Les musiques de fond proviennent de [la bibliothèque audio de Youtube](https://www.youtube.com/audiolibrary/music).
+
+* South London HiFi - After the Soft Rains
+* Mini Vandals - Black Terrier Blues
+* Dyalla - Homer said
+* Bruno E. - Sugar Soul
+* Bruno E. - California Wind
+
+### Images
+
+* 00:00 - https://duckduckgo.com/?q=Tim+Berners-Lee&t=h_&iax=images&ia=images
+* 00:10 - https://fr.wikipedia.org/wiki/Tim_Berners-Lee
+* 00:18 - https://www.bl.uk/voices-of-science/interviewees/mary-lee-berners-lee
+* 00:21 - https://duckduckgo.com/?q=ferranti+mark+1&t=h_&iar=images&iax=images&ia=images
+* 00:26 - https://www.youtube.com/watch?v=cCE2EyV_IiY#t=8m27s
+* 00:28 - https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_1
+* 00:31 - https://www.youtube.com/watch?v=cCE2EyV_IiY#t=8m22s
+* 00:36 - https://www.youtube.com/watch?v=Y__dxTaGEp0&t=52s
+
+(Liste non finalisée. À compléter.)
+
+---
+
+## Sources
+
+### Notes
 
 * [1] "they actually met while working on the Ferranti Mark I" https://www.w3.org/People/Berners-Lee/FAQ.html
 * [2] À partir de 27 min https://vimeo.com/137117401
@@ -113,7 +132,7 @@ Merci de votre écoute et bienvenue dans trois double v.
 
 > So go back to Web 1.0. Go back to the original Web. And there's two technologies at the beginning and all the way to today are the fundamental technologies behind the Web. I call them the HTs. HTML. HTTP.
 
-## Liens
+### Liens
 
 * https://www.bl.uk/voices-of-science/interviewees/mary-lee-berners-lee
 * https://www.theguardian.com/technology/2018/jan/23/mary-lee-berners-lee-obituary
