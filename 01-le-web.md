@@ -107,8 +107,31 @@ Les musiques de fond proviennent de [la bibliothèque audio de Youtube](https://
 * 00:28 - https://www.imdb.com/title/tt0107290/?ref_=fn_al_tt_1
 * 00:31 - https://www.youtube.com/watch?v=cCE2EyV_IiY#t=8m22s
 * 00:36 - https://www.youtube.com/watch?v=Y__dxTaGEp0&t=52s
-
-(Liste non finalisée. À compléter.)
+* 00:39 - CERN-FOOTAGE-2019-007-001-1080p.mp4
+* 00:48 - https://cds.cern.ch/record/369245/files/dd-89-001.pdf
+* 00:56 - https://home.cern/resources/video/computing/brief-history-world-wide-web
+* 01:00 - CERN-FOOTAGE-2019-007-001-1080p.mp4
+* 01:05 - https://worldwideweb.cern.ch/browser/
+* 01:11 - https://cds.cern.ch/record/1405411/files/ARCH-WWW-4-010.pdf
+* 01:19 - https://home.cern/resources/image/computing/world-wide-web-images-gallery
+* 01:32 - https://www.youtube.com/watch?v=cCE2EyV_IiY&t=12m56s
+* 01:41 - http://www94.web.cern.ch/WWW94/Images/W3logo.gif
+* 01:48 - http://maps.stamen.com/toner/#16/46.2337/6.0446
+* 01:56 - https://duckduckgo.com/?q=world+wide+web&t=h_
+* 02:02 - https://duckduckgo.com/?q=internet&t=h_&ia=web
+* 02:06 - https://twitter.com/HTeuMeuLeu/status/1105577568277794824
+* 02:12 - https://www.youtube.com/watch?v=jkXR0UvZAwc
+* 02:18 - https://itunes.apple.com/fr/tv-season/meurtres-sur-internet/id1054498197
+* 02:29 - https://www.youtube.com/watch?v=cCE2EyV_IiY#t=30m57s
+* 02:49 - https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html
+* 03:00 - https://www.youtube.com/watch?v=Qss5RnD7wK8
+* 03:41 - https://duckduckgo.com/?q=web+platform&t=h_&ia=web
+* 03:48 - https://webplatform.github.io/
+* 03:51 - https://web.archive.org/web/20151029213534/https://www.mozilla.org/en-US/firefox/partners/
+* 03:56 - https://vimeo.com/137117401 (à 27:00)
+* 04:54 - https://www.youtube.com/watch?v=4As0e4de-rI&t=1h17m33s
+* 04:59 - https://www.youtube.com/watch?v=j-udF5LiXYA
+* 06:12 - https://home.cern/resources/video/computing/brief-history-world-wide-web (audio)
 
 ---
 
