@@ -1,0 +1,7 @@
+# HTTP
+
+## Notes
+* Prenons la couverture d'un magazine en français. À partir de la mise en page, je suis capable de comprendre l'organisation et la hiérarchie des contenus. Le nom du magazine est en gros et tout en haut. Le titre de l'article principal est au centre en gros. Les articles secondaires sont en plus petits en bas. Les noms des auteurs et la référence aux pages sont dans une couleur et une police différentes. Tout ça, je suis capable de le comprendre instantanément parce que ça reprend des codes culturels auxquels je suis habité.
+* Maintenant imaginons que je perde tous ces repères visuels. Si par exemple je reprends chacun de ces textes dans un fichier texte brut… Je suis encore capable de comprendre certains éléments et de me faire une idée du contenu. Mais c'est uniquement parce que ce contenu est dans une langue que je parle.
+* Si je fais la même chose avec un magazine dans une langue étrangère, je vais très très vite être complètement perdu.
+* Et c'est là qu'entre en jeu HTML. Comme le Web c'est pour tout le monde, il a fallu inventer pour le Web une façon de structurer du contenu, quel que soit votre langue. Ainsi, en utilisant des balises sémantiques, je vais pouvoir hiérarchiser et donner du sens à mon contenu. Là, en indiquant que c'est un titre. Ici, un autre titre. Là, c'est un lien. Et là, c'est le nom d'une personne. Quel que soit mon pays et ma langue d'origine, HTML pose un langage et une structure commune qui permet d'indiquer de quoi on est en train de parler.
