@@ -1,4 +1,4 @@
-# HTTP
+# HTML
 
 ## Notes
 * Prenons la couverture d'un magazine en français. À partir de la mise en page, je suis capable de comprendre l'organisation et la hiérarchie des contenus. Le nom du magazine est en gros et tout en haut. Le titre de l'article principal est au centre en gros. Les articles secondaires sont en plus petits en bas. Les noms des auteurs et la référence aux pages sont dans une couleur et une police différentes. Tout ça, je suis capable de le comprendre instantanément parce que ça reprend des codes culturels auxquels je suis habité.
