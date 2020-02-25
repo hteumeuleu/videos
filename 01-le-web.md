@@ -148,7 +148,7 @@ Les musiques de fond proviennent de [la bibliothèque audio de Youtube](https://
 > […]
 > If I build an iOS app and you have an iOS device, you get what I built. 100% of what I've built. But if I build an iOS app and you get an Android device, you get zero of what I built.
 > If I build something on the Web, maybe you get 100% percent. Maybe close to it, 90%, 80%. But the important thing is you don't necessarly get zero. You get something. If I'm building it the right way, using progressive enhancement, you're at least going to get the content. At least going to get the HTML. Maybe you'll get the CSS. Maybe not all the CSS. Some of the JavaScript. Maybe not all of the JavaScript.
-> The Web is not a platform. The Web is a continuum. To treat the web as a platform is a category error. And just as we made the mistake as we tried to get our heads around the Web and thought of it as print design, now we're making the same mistake as thinking the Web is software just like any software. So we can treat building for the Web the way we treat building for any other platform. The Web is fundamentally different.
+> The Web is not a platform. The Web is a continuum. To treat the web as a platform is a category error. And just as we made the mistake as we tried to get our heads around the Web and thought of it as print design, now we're making the same mistake as thinking the Web is software just like any software. So we can't treat building for the Web the way we treat building for any other platform. The Web is fundamentally different.
 > 
 * [3] https://twitter.com/HTeuMeuLeu/status/1105577568277794824
 * [4] https://www.youtube.com/watch?v=Qss5RnD7wK8
