@@ -2,6 +2,12 @@
 
 Sur [l'exemple d'oncletom](https://github.com/oncletom/nodebook/blob/v1/docs/JOURNAL.md), ce journal détaille mes efforts pour avancer sur ce projet.
 
+## Lundi 27 juillet 2020
+
+* Je suis bien motivé pour lancer un premier épisode de _Comment ça function_. J'ai regardé quelques vidéos de [Scilabus Plus](https://www.youtube.com/channel/UCaZRpfXzlHVchIJMpf-PVFw) qui me poussent bien à avancer. Je me demande surtout comment et jusqu'où je dois aller pour expliquer comment on fait du dessin en CSS.
+
+---
+
 ## Lundi 13 janvier 2020
 
 * [Quatrième test de montage](https://drive.google.com/open?id=1Zl_LcK4EVe85UBBj53g40jdZfAUcgepA). Avec de la musique de fond. Il me reste deux trois trucs à faire. Si tout va bien, je lance la vidéo ce mercredi 15.
