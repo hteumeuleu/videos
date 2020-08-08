@@ -1,14 +1,14 @@
 # Comment ça function… L'animation de chargement de Gmail
 
-En avril 2018, Google a mis à jour Gmail en lançant le plus gros redesign du webmail depuis 2011. Au fil des années, le webmail est devenue une grosse usine bourrée de JavaScript qui va jusqu'à charger plus de 150 fichiers pour plus de 10 Mo non compressés au total. On est loin, très loin, de la douzaine de requêtes et des 40 Ko de la toute première version de Gmail.
+Une animation de chargement super légère pour un webmail super lourd ? C'est possible et voici comment ça function…
 
-Gmail affiche un écran de chargement dédié. Et le premier truc que j'ai remarqué lors de la refonte, c'est ce nouvel écran de chargement. On est passé d'une simple barre de progression à une animation bien chiadée. Je me suis tout de suite demandé comment c'était fait. J'ai d'abord pensé que c'était une vidéo, ou alors un gros sprite comme l'a souvent fait Google pour ses Doodles. Et c'est là que je me suis rendu compte que toute cette animation est faite juste en HTML et CSS.
+En avril 2018, Google a mis à jour le webmail desktop de Gmail. Et le premier truc qui m'a sauté aux yeux, c'est l'écran de chargement. On est passé d'une barre de progression basique à une belle animation de chargement.
 
-La pratique de dessiner en HTML et CSS n'est pas récente. Ça se faisait déjà avec des tableaux en HTML.
+J'ai d'abord pensé que c'était un GIF animé, ou alors une vidéo, voire même un WebP animé puisqu'on est chez Google.
 
-La plupart du temps, ces dessins sont purement expérimentaux. Et c'est vraiment un chouette exercice pour appréhender certaines notions de HTML et CSS. Mais c'est assez rare de trouver des exemples de dessin comme ça dans la vraie vie. Et encore moins dans un service qui compte un milliard et demi d'utilisateurs comme Gmail. Alors voici comment ça function.
+Et puis je me suis souvenu d'une technique utilisée par Google pour certains doodles au début des années 2010. TK
 
----
+Eh bien en fait… rien de tout ça.
 
 ## Message
 
@@ -53,3 +53,15 @@ L'animation de chargement de Gmail est dessinée en CSS. Et la barre de progress
 ## Miniatures
 
 * Une capture d'écran de l'animation de Gmail en fond. Avec une flèche rouge et un text qui dit "FAKE?".
+
+---
+
+## Ancien script
+
+En avril 2018, Google a mis à jour Gmail en lançant le plus gros redesign du webmail depuis 2011. Au fil des années, le webmail est devenue une grosse usine bourrée de JavaScript qui va jusqu'à charger plus de 150 fichiers pour plus de 10 Mo non compressés au total. On est loin, très loin, de la douzaine de requêtes et des 40 Ko de la toute première version de Gmail.
+
+Gmail affiche un écran de chargement dédié. Et le premier truc que j'ai remarqué lors de la refonte, c'est ce nouvel écran de chargement. On est passé d'une simple barre de progression à une animation bien chiadée. Je me suis tout de suite demandé comment c'était fait. J'ai d'abord pensé que c'était une vidéo, ou alors un gros sprite comme l'a souvent fait Google pour ses Doodles. Et c'est là que je me suis rendu compte que toute cette animation est faite juste en HTML et CSS.
+
+La pratique de dessiner en HTML et CSS n'est pas récente. Ça se faisait déjà avec des tableaux en HTML.
+
+La plupart du temps, ces dessins sont purement expérimentaux. Et c'est vraiment un chouette exercice pour appréhender certaines notions de HTML et CSS. Mais c'est assez rare de trouver des exemples de dessin comme ça dans la vraie vie. Et encore moins dans un service qui compte un milliard et demi d'utilisateurs comme Gmail. Alors voici comment ça function.
