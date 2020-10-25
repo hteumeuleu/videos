@@ -6,7 +6,7 @@
 ## Liens
 
 * 418 I'm a teapot https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418
-* 451 Unavailable for legal reasons (en référence à Fahrenheit 451) https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451 https://en.wikipedia.org/wiki/HTTP_451
+* 451 Unavailable for legal reasons (en référence à Fahrenheit 451) https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451 https://en.wikipedia.org/wiki/HTTP_451 ([exemple de youtube-dl sur GitHub](https://twitter.com/HTeuMeuLeu/status/1320304127180767232))
 * _Anatomy of a HTTP request_ par Julia Evans https://twitter.com/b0rk/status/1145362860136177664
 * _How URLs work_ par Julia Evans https://twitter.com/b0rk/status/1161997141876903936
 * HTTP return codes cheat sheet (4** You fucked up, 5** I fucked up) https://i.redd.it/gc7x0hikmx731.png
